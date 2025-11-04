@@ -116,7 +116,8 @@ After selecting important features and re-training:
 
 ### 👨‍💻 Author
 **Rahul Pagar**  
-🎓 Masters in Business Analytics 
+🎓 Masters in Business Analytics
+
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/rahul-pagar1993)
 
 ---
