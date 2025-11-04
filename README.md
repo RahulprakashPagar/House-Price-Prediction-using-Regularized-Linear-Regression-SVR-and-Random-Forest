@@ -17,9 +17,11 @@ It explores **L1 (Lasso), L2 (Ridge), Elastic Net, Support Vector Regression (SV
 - **Author:** [Rahul Pagar](https://www.linkedin.com/in/rahul-pagar1993)
 
 ---
----
+
 ### 🏷️ Keywords
 machine-learning, regression, linear-regression, elastic-net, ridge, lasso, support-vector-regression, random-forest, python, sklearn, data-science
+
+---
 
 ## ⚙️ Workflow and Methods
 
@@ -103,29 +105,23 @@ After selecting important features and re-training:
 
 ---
 
-## 🧮 Libraries Used
-```python
-pandas
-numpy
-scikit-learn
-matplotlib
-plotly
+## 📑 Files, Author & Conclusion
 
-## 📑 Files Included
-- **`Code_Rahul Pagar.py`** —  Full Python implementation
-- **`Data File_kc_housing Data.csv`** — Kaggle dataset
-- **`Report_Rahul_Pagar.pdf`** — Comprehensive report & analysis
+### 📁 Files Included
+- **`Code_Rahul Pagar.py`** — Full Python implementation  
+- **`Data File_kc_housing Data.csv`** — Kaggle dataset  
+- **`Report_Rahul_Pagar.pdf`** — Comprehensive report & analysis  
 
 ---
 
-## Author
+### 👨‍💻 Author
 **Rahul Pagar**  
-MSc in Business Analytics — Dublin Business School  
+🎓 MSc in Business Analytics — Dublin Business School  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/rahul-pagar1993)
 
 ---
 
-## 🏁 Conclusion
-Among all models, Random Forest achieved the highest R² (97.98%) but showed overfitting.
-Elastic Net and Lasso regression offer a better balance between accuracy, interpretability, and generalization.
-Support Vector Regression (SVR) performed moderately well for non-linear patterns.
+### 🏁 Conclusion
+Among all models, **Random Forest** achieved the highest R² (97.98%) but showed overfitting.  
+**Elastic Net** and **Lasso regression** offer a better balance between accuracy, interpretability, and generalization.  
+**Support Vector Regression (SVR)** performed moderately well for non-linear patterns.
